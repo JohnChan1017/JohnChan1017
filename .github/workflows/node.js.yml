@@ -26,5 +26,20 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
-    - run: npm install
-    - run: node index.js
+    - name: install npm package     
+      run: npm install
+
+    - name: node file
+      run: node index.js
+    
+      # Runs a set of commands using the runners shell
+    - name: Commit changes
+      uses: EndBug/add-and-commit@v4
+      with:
+        author_name: GITHUB_GENERATOR
+        author_email: bedaojiaze@163.com
+        message: "AUTO GENERATE README"
+        add: "*.md"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
