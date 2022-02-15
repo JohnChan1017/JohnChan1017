@@ -16,7 +16,23 @@
     "*.wxml": "html",
     "*.wxss": "css"
   },
-  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+  // "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+  "terminal.integrated.profiles.windows": {
+    "PowerShell -NoProfile": {
+      "source": "PowerShell",
+      "args": [
+        "-NoProfile"
+      ]
+    }
+  },
+  "terminal.integrated.profiles.linux": {
+    "zsh (login)": {
+      "path": "zsh",
+      "args": [
+        "-l"
+      ]
+    }
+  },    
   "git.enableSmartCommit": true,
   "git.autofetch": true,
   "emmet.triggerExpansionOnTab": true,
@@ -75,5 +91,6 @@
       "semi": false,
       "singleQuote": true
     }
-  }
+  },
+  "workbench.productIconTheme": "fluent-icons"
 }
