@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=JohnChan1017&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-<p>Welcome to my page! <br/> I'm John, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="13" /> <b>Zhongshan, China</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="13"
+<p>Welcome to my World! <br/> I'm John, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="13" /> <b>Zhongshan, China</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="13"
     /> <b>Guangzhou, China</b>.
 </p>
 <h3>Things I code with</h3>
