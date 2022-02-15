@@ -1,14 +1,24 @@
 {
-  "name": "github.readme",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "mustache": "^4.2.0"
-  }
+    "name": "github.readme",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "readme.md",
+        "github",
+        "actions",
+        "dynamic",
+        "javascript"
+    ],
+    "author": "JohnChan",
+    "license": "ISC",
+    "dependencies": {
+        "dotenv": "^16.0.0",
+        "mustache": "^4.2.0",
+        "node-fetch": "^3.2.0",
+        "puppeteer": "^13.3.2"
+    }
 }
