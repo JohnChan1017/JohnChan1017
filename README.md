@@ -1,6 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> Hey! Nice to see you.</h1>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=JohnChan1017&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+[![Mr.Alien's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnChan1017&show_icons=true&hide_title=false&&count_private=true&theme=radical)](https://github.com/JohnChan1017/JohnChan1017)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnChan1017&theme=buefy)](https://github.com/JohnChan1017/JohnChan1017)
 
 <p>Welcome to my page! <br/> I'm John, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="13" /> <b>Zhongshan, China</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="13"
     /> <b>Guangzhou, China</b>.
@@ -59,4 +61,4 @@
     <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41" />
 </p>
 
-My name is John and today is Wednesday, 16 February, 09:37 GMT+8.
+My name is John and today is Wednesday, 16 February, 08:43 GMT+8.
