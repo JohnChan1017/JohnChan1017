@@ -1,11 +1,4 @@
 {
-  "workbench.colorCustomizations": {
-    "titleBar.activeForeground": "#61dafb",
-    "titleBar.inactiveForeground": "#53b7d3",
-    "titleBar.activeBackground": "#20232a",
-    "titleBar.inactiveBackground": "#0a0e16"
-  },
-  // #值设置为true时，每次保存的时候自动格式化；
   "editor.formatOnSave": false,
   "files.insertFinalNewline": true,
   // 重新设定tabsize
