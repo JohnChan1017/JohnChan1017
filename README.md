@@ -7,7 +7,7 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnChan1017&theme=buefy" />
 </a>
 
-<p>Welcome to my page! <br/> I'm John, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="13" /> <b>Zhongshan, China</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="13"
+<p>Welcome to my word! <br/> I'm John, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="13" /> <b>Zhongshan, China</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="13"
     /> <b>Guangzhou, China</b>.
 </p>
 <h3>Things I code with</h3>
@@ -64,4 +64,4 @@
     <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41" />
 </p>
 
-My name is John and today is Friday, February 18, 11:12 PM GMT+8.
+My name is John and today is Friday, 18 February, 23:26 GMT+8.
