@@ -64,4 +64,4 @@
     <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41" />
 </p>
 
-My name is John and today is Wednesday, September 18, 2:18 PM GMT+8.
+My name is John and today is Wednesday, 18 September at 17:14 GMT+8.
